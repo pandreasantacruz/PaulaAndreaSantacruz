@@ -3,10 +3,10 @@
 
 Especializada en Front-end, manejo tecnologías como HTML, CSS, Javascript, React, Node.js, Express, PostgreSQL y TypeScript. Disfruto trabajar en equipos colaborativos, enfrentando desafíos complejos y aprendiendo constantemente.
 
-Estoy siempre abierta a nuevas oportunidades que me permitan crecer profesional y personalmente. ¡Conectemos! 🚀
+Estoy siempre abierta a nuevas oportunidades que me permitan crecer profesional y personalmente. ¡Conectemos! www.linkedin.com/in/paulaandreasantacruz, andreasantacruz123@gmail.com 🚀
 
 Hi! I’m Paula Andrea Santacruz, an Environmental Engineer and Full Stack Developer with remote work experience. Passionate about technology and sustainable development, I combine my technical knowledge with software development skills to create innovative and efficient solutions.
 
 Specialist in Front-end, I work with technologies such as HTML, CSS, Javascript, React, Node.js, Express, PostgreSQL, and TypeScript. Fluent in English and Spanish I enjoy collaborating with diverse teams, tackling complex challenges, and continuously learning.
 
-I’m always open to new opportunities that foster professional and personal growth. Let’s connect! 🚀
+I’m always open to new opportunities that foster professional and personal growth. Let’s connect! www.linkedin.com/in/paulaandreasantacruz, andreasantacruz123@gmail.com 🚀
