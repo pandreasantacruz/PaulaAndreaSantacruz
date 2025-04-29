@@ -1,18 +1,20 @@
 # PaulaAndreaSantacruz
-¡Hola! Soy Paula Andrea Santacruz, Ingeniera Ambiental y Full Stack Developer con experiencia en trabajo remoto. Apasionada por la tecnología, el desarrollo sostenible y el diseño, combino mi formación técnica con un enfoque creativo para construir soluciones digitales innovadoras, funcionales y visualmente atractivas.
+¡Hola! Soy Paula Andrea Santacruz, Desarrolladora Full Stack con enfoque en Frontend y experiencia en trabajo remoto. Apasionada por la tecnología, el diseño y el desarrollo sostenible, combino habilidades técnicas y creativas para construir soluciones digitales innovadoras, funcionales y visualmente atractivas.
 
-Mi especialidad es el desarrollo Front-end, trabajando con tecnologías como HTML, CSS, JavaScript, React, Node.js, Express, PostgreSQL y TypeScript. Me encanta transformar ideas en interfaces intuitivas, accesibles y modernas, cuidando cada detalle del diseño y la experiencia del usuario.
+Especializada en desarrollo Frontend, trabajo con tecnologías como:
+React, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Bootstrap, Node.js, Express, PostgreSQL, Next.js, Vite, REST APIs, y principios de UI/UX y Responsive Design. Me encanta transformar ideas en interfaces modernas, intuitivas y accesibles, cuidando cada detalle de la experiencia del usuario.
 
-Disfruto colaborar en equipos dinámicos, enfrentar desafíos complejos y seguir aprendiendo cada día. Siempre estoy en busca de proyectos que me impulsen a crecer profesional y personalmente.
+Disfruto colaborar en equipos dinámicos, resolver desafíos complejos y aprender constantemente. Siempre estoy en busca de proyectos que me impulsen a crecer, tanto profesional como personalmente.
 
 ¿Conectamos? 🚀  www.linkedin.com/in/paulaandreasantacruz, andreasantacruz123@gmail.com 🚀
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Hi! I'm Paula Andrea Santacruz, an Environmental Engineer and Full Stack Developer with remote work experience. Passionate about technology, sustainable development, and design, I blend my technical background with a creative mindset to build innovative, efficient, and visually appealing digital solutions.
+Hi! I'm Paula Andrea Santacruz, a Full Stack Developer with a strong focus on Frontend and experience working remotely. Passionate about technology, design, and sustainable development, I blend technical and creative skills to build innovative, functional, and visually appealing digital solutions.
 
-I specialize in Front-end development, working with technologies like HTML, CSS, JavaScript, React, Node.js, Express, PostgreSQL, and TypeScript. I love turning ideas into intuitive, accessible, and modern user interfaces, paying close attention to both functionality and aesthetics.
+Specialized in Frontend development, I work with technologies such as:
+React, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Bootstrap, Node.js, Express, PostgreSQL, Next.js, Vite, REST APIs, and apply principles of UI/UX and Responsive Design. I love turning ideas into modern, intuitive, and accessible interfaces, always paying attention to the user experience.
 
-I thrive in collaborative environments, enjoy tackling complex challenges, and I'm always eager to learn something new. I'm open to exciting opportunities that allow me to grow both professionally and personally.
+I enjoy collaborating in dynamic teams, solving complex challenges, and learning every day. I'm always looking for projects that push me to grow both professionally and personally.
 
 Let’s connect! 🚀 www.linkedin.com/in/paulaandreasantacruz, andreasantacruz123@gmail.com 🚀
